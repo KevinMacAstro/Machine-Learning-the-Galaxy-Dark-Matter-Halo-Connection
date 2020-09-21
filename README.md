@@ -4,7 +4,10 @@ Code related to implementing machine learning techniques to model the dark matte
 
 FILES
 --------------------------
+Presentations
 - ANN_GradTalk.key (Slides from talk given to other graduate students at the U regarding my exploration of the use of ANN to build a galaxy-halo occupation model)
+- CompSci_Take2.key (Slides from talk given to Comp. Sci. graduate department regarding Observational Cosmology)
+
 
 CODE FILES
 ---------------------------
