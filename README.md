@@ -9,10 +9,10 @@ Artificial Neural Networks (ANN)
 - ANN_kfold.py (Similar to ANN_DperKfold, except now with the flexibility to change the number of neurons in a given layer, their activation function, employ batch training, alter step-size in gradient descent, and change loss function.)
 - ILL_ANN_EVAL.py (Similar to above but now employing TensorFlow via Keras)
 
-Gaussian Processes
+Gaussian Processes (GP)
 - gp.py (Employ the GaPP gaussian processes program for Python to model fsig_8 vs z, delta matter vs z, delta_prime vs z, and f vs. z.)
 
-Gaussian Mixtures Method
+Gaussian Mixtures Method (GMM)
 - data_prep.py (Calculate the data covariance matrix)
 - GM_means.py (Estimating the ideal # of means for GMM, via K_means)
 - GM.py (Model data with GMM)
