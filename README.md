@@ -1,4 +1,4 @@
-# MachineLearning
+# Machine Learning Excercise (for the Data Mining graduate course poster competition).
 
 Code related to implementing machine learning techniques to model the dark matter halo-galaxy connection.
 
